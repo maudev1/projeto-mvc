@@ -21,6 +21,4 @@ func CreateUser(c *gin.Context) {
 
 	fmt.Println(userRequest)
 
-	//aula 6
-
 }
